@@ -21,4 +21,4 @@ Foram utilizadas as seguintes bibliotecas:
 
 # Autor: Luan Verdelho
 
-![](luanverdelhoofficial@gmail.com)
+![](https://mail.google.com/mail/u/0/#inbox)
