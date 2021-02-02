@@ -21,4 +21,4 @@ Foram utilizadas as seguintes bibliotecas:
 
 # Autor: Luan Verdelho
 
-![Screenshot](screenshot.png)
+![Screenshot](social-media-icon-for-linkedin-pinterest-gmail-vector-22972682.png)
